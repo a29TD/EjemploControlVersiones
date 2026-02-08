@@ -23,3 +23,10 @@ lado <- 3
 Area <- lado^2
 ```
 
+# Área triángulo
+
+```{r}
+lado <- 4
+Area <- (lado^2)/2
+```
+
