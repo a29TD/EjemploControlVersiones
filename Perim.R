@@ -11,7 +11,8 @@ AreaTrapecio <- function(b,B,H){
 }
 
 PerimetroRectangulo <- function(L1,L2){
-  return(2*L1 + 2*L2)
+  return(2*(L1 + L2))
 }
 
 pi <- 3.14159
+
