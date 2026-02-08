@@ -30,3 +30,10 @@ lado <- 4
 Area <- (lado^2)/2
 ```
 
+# Área rectángulo
+
+```{r}
+lado_1 <- 4
+lado_2 <- 3
+Area <- (lado_1 * lado_2)
+```
